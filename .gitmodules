@@ -1,0 +1,3 @@
+[submodule "pyQA"]
+	path = pyQA
+	url = https://github.com/NetzOptimize/pyQA.git
