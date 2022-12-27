@@ -1,0 +1,24 @@
+{
+      "common":
+      {
+        "url": "https://dev:letmein@dev.apartmentlove.com/",
+        "live_url": "https://apartmentlove.com/apartments-for-rent",
+        "single_page_listing_count": "//div[@class\u003d\u0027propertyDetailsOuter prop-detail-wrap\u0027]",
+        "cookie_click_1": "//button[normalize-space()='Continue'",
+        "cookie_click_2": "//button[@id='consent-popup-accept']",
+        "single_listing_click": "//div[@class\u003d\u0027propertyDetailsOuter prop-detail-wrap\u0027]",
+        "listing_name": "//div[@class\u003d\u0027propertyDetailsOuter prop-detail-wrap\u0027]//div[@class\u003d\u0027property-details\u0027]//div[@class\u003d\u0027property-details-heading\u0027]",
+        "read_category": "//div[@class\u003d\u0027propertyFeatureItem\u0027]",
+        "page_forward" : "//ul[3]//li[1]//a[1]",
+        "First_input_click": "//body/div[@class='wrapper']/div[@class='porpertyDetails-sec']/div[@class='container']/div[@class='porpertyDetails-slider']/div[@class='row']/div[@id='propertyDetailsSideBar']/div[@id='contactLandlordFrame']/div[@class='info contactLandlordContainer w-100']/form[@class='uniplaces-book-form']/div[@class='row']/div[1]/div[1]/input[1]",
+        "check_available_now_in_Listing_Highlights": "//ul[@class='amenities']//li",
+        "Move_in_Date": "//li[contains(text(),'Move In:')]",
+        "Year_Click_and_Input": "//div[@class='flatpickr-calendar animate open arrowTop arrowLeft']//input[@aria-label='Year']",
+        "Month_Selection": "//div[@class='flatpickr-calendar animate open arrowTop arrowLeft']//select[@aria-label='Month']",
+        "Second_Input_Click": "//body/div[@class='wrapper']/div[@class='porpertyDetails-sec']/div[@class='container']/div[@class='porpertyDetails-slider']/div[@class='row']/div[@id='propertyDetailsSideBar']/div[@id='contactLandlordFrame']/div[@class='info contactLandlordContainer w-100']/form[@class='uniplaces-book-form']/div[@class='row']/div[2]/div[1]/input[1]",
+        "Guest_Field_Input": "//body/div[@class='wrapper']/div[@class='porpertyDetails-sec']/div[@class='container']/div[@class='porpertyDetails-slider']/div[@class='row']/div[@id='propertyDetailsSideBar']/div[@id='contactLandlordFrame']/div[@class='info contactLandlordContainer w-100']/form[@class='uniplaces-book-form']/div[@class='row']/div[3]/div[1]/input[1]",
+        "Book_Now_button_click": "//body/div[@class='wrapper']/div[@class='porpertyDetails-sec']/div[@class='container']/div[@class='porpertyDetails-slider']/div[@class='row']/div[@id='propertyDetailsSideBar']/div[@id='contactLandlordFrame']/div[@class='info contactLandlordContainer w-100']/form[@class='uniplaces-book-form']/div[@id='contactLandlordButtonContainer']/button[1]",
+        "Message_after_redirection": "//div[@id='redirect-fallback']",
+        "Error_message": "//body/div[@class='wrapper']/div[@class='porpertyDetails-sec']/div[@class='container']/div[@class='porpertyDetails-slider']/div[@class='row']/div[@id='propertyDetailsSideBar']/div[@id='contactLandlordFrame']/div[@class='info contactLandlordContainer w-100']/form[@class='uniplaces-book-form']/div[2]"
+      }
+}

@@ -1,0 +1,12 @@
+{
+      "common": {
+        "url": "https://dev:letmein@qa.apartmentlove.com/apartments-for-rent",
+        "live_url": "https://apartmentlove.com/apartments-for-rent",
+        "single_page_listing_count": "//div[@class\u003d\u0027propertyDetailsOuter prop-detail-wrap\u0027]",
+        "cookie_click_2": "//button[@id='consent-popup-accept']",
+        "single_listing_click": "//div[@class\u003d\u0027propertyDetailsOuter prop-detail-wrap\u0027]",
+        "listing_name": "//div[@class\u003d\u0027propertyDetailsOuter prop-detail-wrap\u0027]//div[@class\u003d\u0027property-details\u0027]//div[@class\u003d\u0027property-details-heading\u0027]",
+        "page_forward" : "//ul[3]//li[1]//a[1]"
+
+      }
+}
